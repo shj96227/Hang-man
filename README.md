@@ -7,7 +7,7 @@
 
 ## Overview
 
-![Hang_man](![Hang_man](https://github.com/user-attachments/assets/8270d41a-4705-4ab4-974b-41943482279e))
+![Hang_man](https://github.com/user-attachments/assets/0a1e0d16-6b50-4227-82da-c52588f15fe9)
 
 
 ## Dependencies
